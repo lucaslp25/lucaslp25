@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2>👋🏻 Olá Meu nome é Lucas, e este é o meu GitHub!</h2>
+<p>Estou aprendendo programação</p>
+<p>No momento estou estudando e me aperfeiçoando em Java ☕</p>
 
-<!--
-**lucaslp25/lucaslp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<P>Competências</P>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>PYTHON</li>
+  <li>JAVA</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Meu perfil do linkedIn:<br>
+<a href='www.linkedin.com/in/lucas-lopes-4791b9353'>Linkedln</a></li>
+
+
+
+
+
