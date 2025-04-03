@@ -12,10 +12,8 @@
   <li>JAVA</li>
 </ul>
 
-<br>
 
-Meu perfil do linkedIn:<br>
-<a href='www.linkedin.com/in/lucas-lopes-lp-devskt2025'>Linkedln</a>
+
 
 
 
