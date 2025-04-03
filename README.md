@@ -15,7 +15,7 @@
 <br>
 
 Meu perfil do linkedIn:<br>
-<a href='www.linkedin.com/in/lucas-lopes-4791b9353'>Linkedln</a>
+<a href='www.linkedin.com/in/lucas-lopes-lp-devskt2025'>Linkedln</a>
 
 
 
