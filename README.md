@@ -1,8 +1,8 @@
 <h2>👋🏻 Olá Meu nome é Lucas, e este é o meu GitHub!</h2>
 
-<p>Estou aprendendo programação</p>
+<p>Em desenvolvimento constante como programador</p>
 
-<p>No momento estou me aperfeiçoando em Java ☕</p>
+<p>No momento estou me aprofundando em Java com paradigma em programação orientada a objetos ☕</p>
 
 
 <P>Conhecimentos </P>
