@@ -3,7 +3,7 @@
 <p>No momento estou estudando e me aperfeiçoando em Java ☕</p>
 
 
-<P>Conhecimentos 👇</P>
+<P>Conhecimentos </P>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
