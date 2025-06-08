@@ -39,10 +39,10 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [ProductManagement-API](https://github.com/lucaslopes-dev/ProductManagement-API)
+### 🔹 [ProductManagement-API](https://github.com/lucaslp25/ProductManagement-API)
 > A robust RESTful API developed with Spring Boot, using ExchangeRate-API integration for currencies conversion, OPEN API(swagger) for documentation, H2 and PostgresSQL for persistence and tests.
 
-### 🔹 [Super Pet Shop System](https://github.com/lucaslopes-dev/SuperPetShop)
+### 🔹 [Super Pet Shop](https://github.com/lucaslp25/petshop)
 > Full Java console application using Object-Oriented Programming, MySQL + JDBC for persistence, DAO pattern, and complete CRUD operations for pet shop management.
 
 
