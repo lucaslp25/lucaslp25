@@ -1,41 +1,52 @@
-<h2 align="center">
-  Hello world, I'm Lucas, Software Developer!
-</h2>
+# 👋 Hello world! I'm Lucas Lopes, Software developer!
 
-<p align="center">
-  Estudante de ADS, com foco em desenvolvimento backend com Java. ☕
+### 🎓 A curious Software Development student, currently pursuing a degree in **Systems Analysis and Development (ADS)** at **Unisinos**.
+
+ 🚀 I build real-world applications with focus on **Java back-end development**, working with technologies like **Spring Boot, JPA, Hibernate, JDBC, and MySQL/PostgreSQL/MongoDB**. I also have some experience with **HTML, CSS, and JavaScript** for front-end development.
+
+## 🛠️ Tech Stack
+
+**Current Languages:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </p>
 
-<p align="center">
-Estudando banco de dados MySQL e integração com JDBC, tenho conhecimentos em HTML, CSS, JavaScript e python (Básico). <br>
-Em constante evolução, buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções criativas.
-</p>
-<br>
-
-<p align="center">
-  <a href="https://github.com/lucaslp25">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaslp25&show_icons=true&theme=gruvbox" alt="lucaslp25 GitHub stats" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslp25&hide=javascript,html&theme=gruvbox" alt="Top Langs" width="400">
-  </a>
+**Back-end & Database:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/120/000000/html-5.png" alt="HTML5" width="60">
-  <img src="https://img.icons8.com/color/120/000000/css3.png" alt="CSS3" width="60">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="60">
-  <img src="https://img.icons8.com/color/120/000000/python.png" alt="Python" width="60">
-  <img src="https://img.icons8.com/color/120/000000/java-coffee-cup-logo.png" alt="Java" width="60">
-  <img src="https://img.icons8.com/color/120/000000/mysql.png" alt="MySQL" width="60">
+**Tools & Others:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" height="40" alt="Spring Tools Suite (STS)"/>
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/lp.guitaskt/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:lp.skt25@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-lopes-lp-devskt2025" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+---
+
+## 📂 Featured Projects
+
+### 🔹 [ProductManagement-API](https://github.com/lucaslopes-dev/ProductManagement-API)
+> A robust RESTful API developed with Spring Boot, using ExchangeRate-API integration for currencies conversion, OPEN API(swagger) for documentation, H2 and PostgresSQL for persistence and tests.
+
+### 🔹 [Super Pet Shop System](https://github.com/lucaslopes-dev/SuperPetShop)
+> Full Java console application using Object-Oriented Programming, MySQL + JDBC for persistence, DAO pattern, and complete CRUD operations for pet shop management.
+
+
+## 📫 Contact
+
+- 📧 [lp.skt25@gmail.com](mailto:lp.skt25@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/lucas-lopes-lp-devskt2025)  
